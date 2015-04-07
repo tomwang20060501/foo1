@@ -9,4 +9,8 @@ add line 8
 add line 9
 add line 10
 add line 11
+<<<<<<< HEAD
 add line 12 local
+=======
+add line 12 server
+>>>>>>> 0224d2bc8cbe87ad25279dc9cabc6eaea378491e
